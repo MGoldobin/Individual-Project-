@@ -1,0 +1,14 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: 400px;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    font-size: 20px;
+}
