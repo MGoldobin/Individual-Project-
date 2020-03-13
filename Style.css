@@ -27,7 +27,8 @@ header{
 	font-weight: 400; 
 	width: 100%;
     padding: 15px 30px 10px 40px;
-    display: flex;
+	display: flex;
+	border:5px solid black;
 }
 
 .name{
